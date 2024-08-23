@@ -437,15 +437,26 @@ span{
 }
 /* project1 CSS end*/
 
+
+
 /* project2 CSS start*/
 
 .projects-card-project2 img{
-    height: 300px;
+    height: 500px;
     width: 600px;  
     margin: 100px auto; /* 水平居中 */
 }
 
+
+.projects-card-project2{
+    display: flex;
+    padding: 2px;
+    max-width: 800px;
+}
+
 /* project2 CSS end*/
+
+
 
 
 
